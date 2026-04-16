@@ -1,0 +1,16 @@
+
+h1{color: darkred;
+	font-size: 30px;
+	font-family: cursive;}
+
+h2{color: black;
+	font-size: 20px;
+	font-family: Segoe UI ;}
+	
+body{margin: 0;
+		padding: 0;
+    background-image:
+        url('fondo.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed; }
